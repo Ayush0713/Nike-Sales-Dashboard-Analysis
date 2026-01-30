@@ -1,2 +1,4 @@
-# Nike-Sales-Dashboard-Analysis
-This project showcases an end-to-end Sales Analytics Dashboard built for Nike using Excel (data cleaning &amp; preprocessing) and Power BI (data modeling, DAX calculations, and dashboard creation).
+# Nike-Sales-Dashboard-Analysis (Using MS Excel and Power BI)
+
+## Project Objective
+The goal of this project is to transform raw sales data into meaningful insights that help stakeholders quickly understand overall performance and identify growth opportunities.
